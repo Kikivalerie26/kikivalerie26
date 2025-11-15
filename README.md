@@ -9,7 +9,7 @@ With over five years of experience in data manipulation and SQL, I have develope
 * 🌍  I'm based in North Carolina, USA
 * 🖥️  See my portfolio at [GitHub](http://www.github.com/kikivalerie26/)
 * ✉️  You can contact me at [kikivalerie26@gmail.com](mailto:kikivalerie26@gmail.com)
-* 🚀  I'm currently working on [Project at TripleTen](http://tripleten.com/trainer/bi-analyst/lesson/a27f3229-ca47-4c33-84d9-a9d4383e035d/)
+* 🚀  I'm currently working on Project
 * 🧠  I'm learning POWER BI
 * 🤝  I'm open to collaborating on New Project
 * ⚡  I love creating content & continuous learning
