@@ -4,14 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Business Intelligence Analyst
 -----------------------------
 
-With over five years of experience in data manipulation and SQL, I have developed a deep passion for transforming raw data into actionable insights. My expertise lies in leveraging analytical tools and methodologies to drive data-driven decision-making, enhance compliance processes, and optimize business operations. Fueled by my passion for data, I am constantly expanding my skills and exploring new ways to turn data into valuable business growth. I welcome opportunities to collaborate on innovative projects and contribute to data-driven success.
+I’m a Data and Business Intelligence professional with 5+ years of experience turning complex operational, financial, healthcare, and customer data into actionable insights.
+
+My work combines analytics, technical problem-solving, process improvement, and documentation. I build and validate reporting solutions using Power BI, DAX, SQL, Microsoft Fabric, and other data platforms, with a strong focus on making technical solutions accurate, understandable, and maintainable.
+
+I also explore practical applications of Generative AI and workflow automation, including multi-agent systems built with Claude Code. I’m particularly interested in how AI can improve analytical workflows, technical documentation, knowledge transfer, and repeatable business processes.
 
 * 🌍  I'm based in North Carolina, USA
 * 🖥️  See my portfolio at [GitHub](http://www.github.com/kikivalerie26/)
 * ✉️  You can contact me at [kikivalerie26@gmail.com](mailto:kikivalerie26@gmail.com)
 * 🚀  I'm currently working on Project
-* 🧠  I'm learning POWER BI
+* 📊 Building data and business intelligence solutions
+* 🤖 Developing AI-enabled and multi-agent workflows
 * 🤝  I'm open to collaborating on New Project
+* 🧠 Interested in analytics, automation, process improvement, and technical knowledge sharing
 * ⚡  I love creating content & continuous learning
 
 <a href="https://www.github.com/kikivalerie26" target="_blank" rel="noreferrer"><img
